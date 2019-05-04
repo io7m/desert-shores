@@ -8,13 +8,13 @@ rm -rf out
 mkdir -p out/coremod
 mkdir -p out/mods
 mkdir -p out/bin
-mkdir -p out/configs
+mkdir -p out/config
 
 cp jar-base/forge.jar out/bin/modpack.jar
 
 cp jar/* out/mods/
 
-rsync -avz configs/ out/configs/
+rsync -avz config/ out/config/
 
 rm -f "${OUTPUT_FILE}"
 rm -f "${OUTPUT_FILE}.asc"
