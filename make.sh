@@ -10,8 +10,9 @@ mkdir -p out/mods
 mkdir -p out/bin
 mkdir -p out/configs
 
-cp jar/forge.jar                 out/bin/modpack.jar
-cp jar/jei_1.12.2-4.15.0.268.jar out/mods/
+cp jar-base/forge.jar out/bin/modpack.jar
+
+cp jar/* out/mods/
 
 rm -f "${OUTPUT_FILE}"
 rm -f "${OUTPUT_FILE}.asc"
