@@ -20,6 +20,13 @@ desert-shores
 |[Railcraft](http://www.railcraft.info/)|12.0.0|
 |[Thermal Expansion](https://github.com/CoFH/ThermalExpansion)|5.5.3.41|
 
+## Magic
+
+|Mod|Version|
+|---|-------|
+|[Mystcraft](https://minecraft.curseforge.com/projects/mystcraft/)|0.13.7.03|
+|[Dimensional Doors](https://minecraft.curseforge.com/projects/dimensionaldoors)|3.0.9-287|
+
 ## Aesthetics
 
 |Mod|Version|
