@@ -1,4 +1,4 @@
-desert-shores
+Desert Shores
 ===
 
 ## Features
