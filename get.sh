@@ -56,6 +56,13 @@ wget \
   https://minecraft.curseforge.com/projects/applied-energistics-2/files/2652453/download
 
 #------------------------------------------------------------------------
+# CC-Tweaked
+
+wget \
+  -O jar/cc-tweaked-1.12.2-1.82.3.jar \
+  https://github.com/SquidDev-CC/CC-Tweaked/releases/download/v1.12.2-1.82.3/cc-tweaked-1.12.2-1.82.3.jar
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256

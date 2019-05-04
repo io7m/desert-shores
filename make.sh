@@ -14,6 +14,8 @@ cp jar-base/forge.jar out/bin/modpack.jar
 
 cp jar/* out/mods/
 
+rsync -avz configs/ out/configs/
+
 rm -f "${OUTPUT_FILE}"
 rm -f "${OUTPUT_FILE}.asc"
 
