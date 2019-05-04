@@ -1,6 +1,8 @@
 Desert Shores
 ===
 
+Required Minecraft version: `1.12.2`
+
 ## Features
 
 ### Utilities
