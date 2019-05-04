@@ -19,6 +19,7 @@ Desert Shores
 |[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)|1.12.2-235|
 |[Railcraft](http://www.railcraft.info/)|12.0.0|
 |[Thermal Expansion](https://github.com/CoFH/ThermalExpansion)|5.5.3.41|
+|[Thermal Dynamics](https://github.com/CoFH/ThermalDynamics)|2.5.4.18|
 
 ## Magic
 

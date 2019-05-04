@@ -49,6 +49,13 @@ wget \
   https://www.curseforge.com/minecraft/mc-mods/thermalexpansion/download/2669257/file
 
 #------------------------------------------------------------------------
+# Thermal Dynamics
+
+wget \
+  -O jar/ThermalDynamics-1.12.2-2.5.4.18-universal.jar \
+  https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/download/2669256/file
+
+#------------------------------------------------------------------------
 # Applied Energistics
 
 wget \
