@@ -49,6 +49,13 @@ wget \
   https://www.curseforge.com/minecraft/mc-mods/thermalexpansion/download/2669257/file
 
 #------------------------------------------------------------------------
+# Applied Energistics
+
+wget \
+  -O jar/applied-energistics-rv6.stable.jar \
+  https://minecraft.curseforge.com/projects/applied-energistics-2/files/2652453/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
