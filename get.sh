@@ -96,6 +96,13 @@ wget \
   https://minecraft.curseforge.com/projects/mystcraft/files/2699673/download
 
 #------------------------------------------------------------------------
+# Dimensional Doors
+
+wget \
+  -O jar/DimensionalDoors-3.0.9-287.jar \
+  https://minecraft.curseforge.com/projects/dimensionaldoors/files/2558528/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
