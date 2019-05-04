@@ -6,12 +6,14 @@ desert-shores
 ### Utilities
 
 |Mod|Version|
+|---|-------|
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
 
 ### Automation & Industry
 
 |Mod|Version|
+|---|-------|
 |[Applied Energistics](https://ae-mod.info/)|rv6.stable|
 |[CC: Tweaked](https://github.com/SquidDev-CC/CC-Tweaked)|1.82.3|
 |[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)|1.12.2-235|
@@ -21,5 +23,6 @@ desert-shores
 ## Aesthetics
 
 |Mod|Version|
+|---|-------|
 |[Technical Lights](https://minecraft.curseforge.com/projects/technical-lights)|1.0.1.2|
 
