@@ -63,6 +63,25 @@ wget \
   https://github.com/SquidDev-CC/CC-Tweaked/releases/download/v1.12.2-1.82.3/cc-tweaked-1.12.2-1.82.3.jar
 
 #------------------------------------------------------------------------
+# Industrial Foregoing
+
+wget \
+  -O jar/Forgelin-1.8.2.jar \
+  https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2640952/download
+
+wget \
+  -O jar/Tesla-1.12.2-1.0.63.jar \
+  https://minecraft.curseforge.com/projects/tesla/files/2487959/download
+
+wget \
+  -O jar/tesla-core-lib-1.12.2-1.0.15.jar \
+  https://minecraft.curseforge.com/projects/tesla-core-lib/files/2580052/download
+
+wget \
+  -O jar/industrialforegoing-1.12.2-1.12.11-235.jar \
+  https://minecraft.curseforge.com/projects/industrial-foregoing/files/2693866/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
