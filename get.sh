@@ -103,6 +103,13 @@ wget \
   https://minecraft.curseforge.com/projects/dimensionaldoors/files/2558528/download
 
 #------------------------------------------------------------------------
+# Technical Lights
+
+wget \
+  -O jar/technicallights-1.0.1.2.jar \
+  https://minecraft.curseforge.com/projects/technical-lights/files/2671026/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
