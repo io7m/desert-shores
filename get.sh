@@ -82,6 +82,13 @@ wget \
   https://minecraft.curseforge.com/projects/industrial-foregoing/files/2693866/download
 
 #------------------------------------------------------------------------
+# Railcraft
+
+wget \
+  -O jar/railcraft-12.0.0.jar \
+  https://minecraft.curseforge.com/projects/railcraft/files/2687757/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
