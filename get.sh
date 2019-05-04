@@ -1,5 +1,8 @@
 #!/bin/sh -ex
 
+rm -rf jar-base
+rm -rf jar
+
 mkdir -p jar-base
 mkdir -p jar
 
@@ -20,6 +23,13 @@ wget \
 wget \
   -O jar/Xaeros_Minimap_1.16.6_Forge_1.12.jar \
   https://minecraft.curseforge.com/projects/xaeros-minimap/files/2705897/download
+
+#------------------------------------------------------------------------
+# Here's What You're Looking At
+
+wget \
+  -O jar/Hwyla-1.8.26-B41_1.12.2.jar \
+  https://minecraft.curseforge.com/projects/hwyla/files/2568751/download
 
 #------------------------------------------------------------------------
 # Thermal Expansion
@@ -62,12 +72,16 @@ wget \
   -O jar/applied-energistics-rv6.stable.jar \
   https://minecraft.curseforge.com/projects/applied-energistics-2/files/2652453/download
 
+wget \
+  -O jar/ExtraCells-1.12.2-2.6.2a.jar \
+  https://minecraft.curseforge.com/projects/extracells2/files/2653854/download
+
 #------------------------------------------------------------------------
-# CC-Tweaked
+# OpenComputers
 
 wget \
-  -O jar/cc-tweaked-1.12.2-1.82.3.jar \
-  https://github.com/SquidDev-CC/CC-Tweaked/releases/download/v1.12.2-1.82.3/cc-tweaked-1.12.2-1.82.3.jar
+  -O jar/OpenComputers-MC1.12.2-1.7.4.153.jar \
+  https://minecraft.curseforge.com/projects/opencomputers/files/2670112/download
 
 #------------------------------------------------------------------------
 # Industrial Foregoing

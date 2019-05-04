@@ -11,17 +11,19 @@ Required Minecraft version: `1.12.2`
 |---|-------|
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
+|[HWYLA](https://minecraft.curseforge.com/projects/hwyla)|[B41]
 
 ### Automation & Industry
 
 |Mod|Version|
 |---|-------|
 |[Applied Energistics](https://ae-mod.info/)|rv6.stable|
-|[CC: Tweaked](https://github.com/SquidDev-CC/CC-Tweaked)|1.82.3|
+|[ExtraCells 2](https://minecraft.curseforge.com/projects/extracells2)|2.6.2|
 |[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)|1.12.2-235|
+|[OpenComputers](https://minecraft.curseforge.com/projects/opencomputers)|[153]
 |[Railcraft](http://www.railcraft.info/)|12.0.0|
-|[Thermal Expansion](https://github.com/CoFH/ThermalExpansion)|5.5.3.41|
 |[Thermal Dynamics](https://github.com/CoFH/ThermalDynamics)|2.5.4.18|
+|[Thermal Expansion](https://github.com/CoFH/ThermalExpansion)|5.5.3.41|
 
 ## Magic
 
