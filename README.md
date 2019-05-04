@@ -11,6 +11,7 @@ Required Minecraft version: `1.12.2`
 |---|-------|
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
+|[HWYLA](https://minecraft.curseforge.com/projects/hwyla)|[B41]
 
 ### Automation & Industry
 

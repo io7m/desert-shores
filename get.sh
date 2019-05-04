@@ -1,5 +1,8 @@
 #!/bin/sh -ex
 
+rm -rf jar-base
+rm -rf jar
+
 mkdir -p jar-base
 mkdir -p jar
 
@@ -20,6 +23,13 @@ wget \
 wget \
   -O jar/Xaeros_Minimap_1.16.6_Forge_1.12.jar \
   https://minecraft.curseforge.com/projects/xaeros-minimap/files/2705897/download
+
+#------------------------------------------------------------------------
+# Here's What You're Looking At
+
+wget \
+  -O jar/Hwyla-1.8.26-B41_1.12.2.jar \
+  https://minecraft.curseforge.com/projects/hwyla/files/2568751/download
 
 #------------------------------------------------------------------------
 # Thermal Expansion
