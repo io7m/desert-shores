@@ -89,6 +89,13 @@ wget \
   https://minecraft.curseforge.com/projects/railcraft/files/2687757/download
 
 #------------------------------------------------------------------------
+# Mystcraft
+
+wget \
+  -O jar/mystcraft-1.12.2-0.13.7.03.jar \
+  https://minecraft.curseforge.com/projects/mystcraft/files/2699673/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
