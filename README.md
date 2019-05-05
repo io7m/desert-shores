@@ -12,7 +12,6 @@ Required Minecraft version: `1.12.2`
 |[HWYLA](https://minecraft.curseforge.com/projects/hwyla)|B41
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
 |[Simple Diving Gear](https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear)|1.0.3
-|[TorchMaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)|74
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
 
 ### Automation & Industry
