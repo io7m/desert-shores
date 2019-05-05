@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="desert_shore.svg"
+   inkscape:export-filename="/home/rm/doc/img/2019/05/desert_shore.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0.52916665 : 167.81459 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="171.37084 : 156.96667 : 1"
+       inkscape:persp3d-origin="101.56042 : 78.891666 : 1"
+       id="perspective847" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath843">
+      <circle
+         style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle845"
+         cx="85.405991"
+         cy="75.580566"
+         r="50.981663" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="448.08281"
+     inkscape:cy="572.95737"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1022"
+     inkscape:window-x="3360"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#2c5aa0;fill-opacity:1;stroke:#002255;stroke-width:4.23333311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect921"
+       width="119.85625"
+       height="119.85625"
+       x="45.071873"
+       y="88.571877" />
+    <g
+       id="g4634"
+       transform="translate(19.936455,73.088547)">
+      <g
+         clip-path="url(#clipPath843)"
+         id="g837">
+        <circle
+           r="51.917103"
+           cy="75.767654"
+           cx="85.593056"
+           id="circle821"
+           style="opacity:1;fill:#214478;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <ellipse
+           cy="125.22184"
+           cx="84.573952"
+           id="circle4638"
+           style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:4.23333263;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           rx="91.734802"
+           ry="54.504162" />
+        <ellipse
+           style="opacity:1;fill:#3771c8;fill-opacity:1;stroke:none;stroke-width:4.23333263;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="path4636"
+           cx="84.573959"
+           cy="127.07393"
+           rx="45.666546"
+           ry="35.189579" />
+        <circle
+           style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="path819"
+           cx="85.377571"
+           cy="51.841858"
+           r="10.779155" />
+        <circle
+           r="13.689571"
+           cy="51.841862"
+           cx="85.377579"
+           id="circle907"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#aaccff;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="78.97657"
+           x="73.818748"
+           height="70.121346"
+           width="21.695833"
+           id="rect915"
+           style="opacity:1;fill:#214478;fill-opacity:1;stroke:#aaccff;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <circle
+         r="51.196877"
+         cy="75.411453"
+         cx="85.063545"
+         id="path879"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#afc6e9;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+  </g>
+</svg>

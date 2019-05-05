@@ -1,6 +1,8 @@
 Desert Shores
 ===
 
+![Desert Shores](./src/site/resources/desert_shore_page.png?raw=true)
+
 Required Minecraft version: `1.12.2`
 
 ## Features
@@ -33,6 +35,12 @@ Required Minecraft version: `1.12.2`
 |---|-------|
 |[Dimensional Doors](https://minecraft.curseforge.com/projects/dimensionaldoors)|3.0.9-287|
 |[Mystcraft](https://minecraft.curseforge.com/projects/mystcraft/)|0.13.7.03|
+
+## Exploration
+
+|Mod|Version|
+|---|-------|
+|[Galacticraft](https://micdoodle8.com/mods/galacticraft)|4.0.2.210|
 
 ## Aesthetics
 
