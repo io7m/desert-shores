@@ -149,6 +149,21 @@ wget \
   https://minecraft.curseforge.com/projects/simple-quarry/files/2693660/download
 
 #------------------------------------------------------------------------
+# Galacticraft
+
+wget \
+  -O jar/GalacticraftCore-1.12.2-4.0.2.210.jar \
+  https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.210.jar
+
+wget \
+  -O jar/MicdoodleCore-1.12.2-4.0.2.210.jar \
+  https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.210.jar
+
+wget \
+  -O jar/Galacticraft-Planets-1.12.2-4.0.2.210.jar \
+  https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
