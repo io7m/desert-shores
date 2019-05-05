@@ -21,8 +21,9 @@ Required Minecraft version: `1.12.2`
 |[Applied Energistics](https://ae-mod.info/)|rv6.stable|
 |[ExtraCells 2](https://minecraft.curseforge.com/projects/extracells2)|2.6.2|
 |[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)|1.12.2-235|
-|[OpenComputers](https://minecraft.curseforge.com/projects/opencomputers)|[153]
+|[OpenComputers](https://minecraft.curseforge.com/projects/opencomputers)|153
 |[Railcraft](http://www.railcraft.info/)|12.0.0|
+|[Simple Quarry](https://minecraft.curseforge.com/projects/simple-quarry)|26r|
 |[Thermal Dynamics](https://github.com/CoFH/ThermalDynamics)|2.5.4.18|
 |[Thermal Expansion](https://github.com/CoFH/ThermalExpansion)|5.5.3.41|
 
