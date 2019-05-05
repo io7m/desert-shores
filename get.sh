@@ -131,6 +131,24 @@ wget \
   https://minecraft.curseforge.com/projects/technical-lights/files/2671026/download
 
 #------------------------------------------------------------------------
+# Simple Diving Gear
+
+wget \
+  -O jar/SimpleDivingGear-1.0.3-mc-1.12.2.jar \
+  https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear/download/2572394/file
+
+#------------------------------------------------------------------------
+# Simple Quarry
+
+wget \
+  -O jar/HammerCore-1.12.2-2.0.4.5.jar \
+  https://minecraft.curseforge.com/projects/hammer-lib/files/2706017/download
+
+wget \
+  -O jar/SimpleQuarry-1.12.2-26r.jar \
+  https://minecraft.curseforge.com/projects/simple-quarry/files/2693660/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
