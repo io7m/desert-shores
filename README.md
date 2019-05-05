@@ -1,6 +1,8 @@
 Desert Shores
 ===
 
+![Desert Shores](./src/site/resources/desert_shore_page.png?raw=true)
+
 Required Minecraft version: `1.12.2`
 
 ## Features
