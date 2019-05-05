@@ -131,6 +131,20 @@ wget \
   https://minecraft.curseforge.com/projects/technical-lights/files/2671026/download
 
 #------------------------------------------------------------------------
+# Simple Diving Gear
+
+wget \
+  -O jar/SimpleDivingGear-1.0.3-mc-1.12.2.jar \
+  https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear/download/2572394/file
+
+#------------------------------------------------------------------------
+# TorchMaster
+
+wget \
+  -O jar/torchmaster_1.12.2-1.7.1.74.jar \
+  https://www.curseforge.com/minecraft/mc-mods/torchmaster/download/2657299/file
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256

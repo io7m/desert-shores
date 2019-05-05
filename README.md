@@ -9,9 +9,11 @@ Required Minecraft version: `1.12.2`
 
 |Mod|Version|
 |---|-------|
+|[HWYLA](https://minecraft.curseforge.com/projects/hwyla)|B41
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
+|[Simple Diving Gear](https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear)|1.0.3
+|[TorchMaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)|74
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
-|[HWYLA](https://minecraft.curseforge.com/projects/hwyla)|[B41]
 
 ### Automation & Industry
 
@@ -29,8 +31,8 @@ Required Minecraft version: `1.12.2`
 
 |Mod|Version|
 |---|-------|
-|[Mystcraft](https://minecraft.curseforge.com/projects/mystcraft/)|0.13.7.03|
 |[Dimensional Doors](https://minecraft.curseforge.com/projects/dimensionaldoors)|3.0.9-287|
+|[Mystcraft](https://minecraft.curseforge.com/projects/mystcraft/)|0.13.7.03|
 
 ## Aesthetics
 
