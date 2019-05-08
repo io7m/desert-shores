@@ -66,6 +66,13 @@ wget \
   https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/download/2669256/file
 
 #------------------------------------------------------------------------
+# Redstone Arsenal
+
+wget \
+  -O jar/RedstoneArsenal-1.12.2-2.6.2.17-universal.jar \
+  https://minecraft.curseforge.com/projects/redstone-arsenal/files/2669254/download
+
+#------------------------------------------------------------------------
 # Applied Energistics
 
 wget \
