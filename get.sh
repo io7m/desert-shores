@@ -182,13 +182,6 @@ wget \
   https://minecraft.curseforge.com/projects/thuts-elevators/files/2617947/download
 
 #------------------------------------------------------------------------
-# XTones
-
-wget \
-  -O jar/Xtones-1.12-1.0.8-11.jar \
-  https://minecraft.curseforge.com/projects/xtones/files/2531411/download
-
-#------------------------------------------------------------------------
 # Malisis Doors
 
 wget \
@@ -198,17 +191,6 @@ wget \
 wget \
   -O jar/malisisdoors-1.12.2-7.3.0.jar \
   https://minecraft.curseforge.com/projects/malisisdoors/files/2526674/download
-
-#------------------------------------------------------------------------
-# Redstone Control
-
-wget \
-  -O jar/CD4017BE_lib-1.12.2-6.3.7.jar \
-  https://minecraft.curseforge.com/projects/cd4017be-library/files/2702674/download
-
-wget \
-  -O jar/RedstoneControl-1.12.2-0.0.2.jar \
-  https://minecraft.curseforge.com/projects/redstone-control/files/2702680/download
 
 #------------------------------------------------------------------------
 # Verification
