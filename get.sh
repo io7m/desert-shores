@@ -200,6 +200,17 @@ wget \
   https://minecraft.curseforge.com/projects/malisisdoors/files/2526674/download
 
 #------------------------------------------------------------------------
+# Redstone Control
+
+wget \
+  -O jar/CD4017BE_lib-1.12.2-6.3.7.jar \
+  https://minecraft.curseforge.com/projects/cd4017be-library/files/2702674/download
+
+wget \
+  -O jar/RedstoneControl-1.12.2-0.0.2.jar \
+  https://minecraft.curseforge.com/projects/redstone-control/files/2702680/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
