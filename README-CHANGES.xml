@@ -21,11 +21,16 @@
         <c:change date="2019-05-18T00:00:00+00:00" summary="Removed Pam's HarvestCraft due to fatal error on server startup"/>
       </c:changes>
     </c:release>
-    <c:release date="2019-05-18T14:01:56+00:00" ticket-system="com.github.io7m.desert-shores" version="2.1.0">
+    <c:release date="2019-05-18T14:13:21+00:00" ticket-system="com.github.io7m.desert-shores" version="2.1.0">
       <c:changes>
-        <c:change date="2019-05-18T14:01:56+00:00" summary="Add Thut's Elevators">
+        <c:change date="2019-05-18T00:00:00+00:00" summary="Add Thut's Elevators">
           <c:tickets>
             <c:ticket id="2"/>
+          </c:tickets>
+        </c:change>
+        <c:change date="2019-05-18T14:13:21+00:00" summary="Add XTones">
+          <c:tickets>
+            <c:ticket id="5"/>
           </c:tickets>
         </c:change>
       </c:changes>

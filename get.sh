@@ -182,6 +182,13 @@ wget \
   https://minecraft.curseforge.com/projects/thuts-elevators/files/2617947/download
 
 #------------------------------------------------------------------------
+# XTones
+
+wget \
+  -O jar/Xtones-1.12-1.0.8-11.jar \
+  https://minecraft.curseforge.com/projects/xtones/files/2531411/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
