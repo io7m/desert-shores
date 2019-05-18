@@ -47,5 +47,6 @@ Required Minecraft version: `1.12.2`
 
 |Mod|Version|
 |---|-------|
+|[Malisis Doors](https://minecraft.curseforge.com/projects/malisisdoors)|7.3.0|
 |[Technical Lights](https://minecraft.curseforge.com/projects/technical-lights)|1.0.1.2|
-
+|[Thut's Elevators](https://minecraft.curseforge.com/projects/thuts-elevators)|6.1.6|
