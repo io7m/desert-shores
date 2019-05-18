@@ -171,6 +171,17 @@ wget \
   https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar
 
 #------------------------------------------------------------------------
+# Thut's Elevators
+
+wget \
+  -O jar/thutcore-1.12.2-5.20.2.jar \
+  https://minecraft.curseforge.com/projects/thutcore/files/2710512/download
+
+wget \
+  -O jar/thuttech-1.12.2-6.1.5.jar \
+  https://minecraft.curseforge.com/projects/thuts-elevators/files/2617947/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
