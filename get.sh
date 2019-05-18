@@ -171,6 +171,46 @@ wget \
   https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar
 
 #------------------------------------------------------------------------
+# Thut's Elevators
+
+wget \
+  -O jar/thutcore-1.12.2-5.20.2.jar \
+  https://minecraft.curseforge.com/projects/thutcore/files/2710512/download
+
+wget \
+  -O jar/thuttech-1.12.2-6.1.5.jar \
+  https://minecraft.curseforge.com/projects/thuts-elevators/files/2617947/download
+
+#------------------------------------------------------------------------
+# XTones
+
+wget \
+  -O jar/Xtones-1.12-1.0.8-11.jar \
+  https://minecraft.curseforge.com/projects/xtones/files/2531411/download
+
+#------------------------------------------------------------------------
+# Malisis Doors
+
+wget \
+  -O jar/malisiscore-1.12.2-6.5.1.jar \
+  https://minecraft.curseforge.com/projects/malisiscore/files/2680892/download
+
+wget \
+  -O jar/malisisdoors-1.12.2-7.3.0.jar \
+  https://minecraft.curseforge.com/projects/malisisdoors/files/2526674/download
+
+#------------------------------------------------------------------------
+# Redstone Control
+
+wget \
+  -O jar/CD4017BE_lib-1.12.2-6.3.7.jar \
+  https://minecraft.curseforge.com/projects/cd4017be-library/files/2702674/download
+
+wget \
+  -O jar/RedstoneControl-1.12.2-0.0.2.jar \
+  https://minecraft.curseforge.com/projects/redstone-control/files/2702680/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
