@@ -66,6 +66,13 @@ wget \
   https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/download/2669256/file
 
 #------------------------------------------------------------------------
+# Redstone Arsenal
+
+wget \
+  -O jar/RedstoneArsenal-1.12.2-2.6.2.17-universal.jar \
+  https://minecraft.curseforge.com/projects/redstone-arsenal/files/2669254/download
+
+#------------------------------------------------------------------------
 # Applied Energistics
 
 wget \
@@ -162,6 +169,13 @@ wget \
 wget \
   -O jar/Galacticraft-Planets-1.12.2-4.0.2.210.jar \
   https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar
+
+#------------------------------------------------------------------------
+# Pam's HarvestCraft
+
+wget \
+  -O jar/Pams_HarvestCraft_1.12.2zc.jar \
+  https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2696248/download
 
 #------------------------------------------------------------------------
 # Verification

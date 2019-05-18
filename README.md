@@ -15,6 +15,7 @@ Required Minecraft version: `1.12.2`
 |[Just Enough Items](https://minecraft.curseforge.com/projects/jei/)|4.15.0.268|
 |[Simple Diving Gear](https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear)|1.0.3
 |[Xaero's minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)|1.16.6|
+|[Redstone Arsenal](https://teamcofh.com/docs/redstone-arsenal)|2.6.2
 
 ### Automation & Industry
 
