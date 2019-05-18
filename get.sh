@@ -171,13 +171,6 @@ wget \
   https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar
 
 #------------------------------------------------------------------------
-# Pam's HarvestCraft
-
-wget \
-  -O jar/Pams_HarvestCraft_1.12.2zc.jar \
-  https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2696248/download
-
-#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
