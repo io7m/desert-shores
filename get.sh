@@ -189,6 +189,17 @@ wget \
   https://minecraft.curseforge.com/projects/xtones/files/2531411/download
 
 #------------------------------------------------------------------------
+# Malisis Doors
+
+wget \
+  -O jar/malisiscore-1.12.2-6.5.1.jar \
+  https://minecraft.curseforge.com/projects/malisiscore/files/2680892/download
+
+wget \
+  -O jar/malisisdoors-1.12.2-7.3.0.jar \
+  https://minecraft.curseforge.com/projects/malisisdoors/files/2526674/download
+
+#------------------------------------------------------------------------
 # Verification
 
 openssl sha256 jar/* | tee received.sha256
